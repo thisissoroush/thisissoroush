@@ -2,7 +2,6 @@
 
 <h1>Most Directories are private but feel free to use the public one's!</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-thisissoroush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisissoroush)](https://www.linkedin.com/in/thisissoroush) [![Gmail Badge](https://img.shields.io/badge/-nasiri.sr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nasiri.sr@gmail.com)](mailto:nasiri@gmail.com) 
 
