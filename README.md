@@ -44,26 +44,26 @@ Business Problem
    └────┬────┘
         │
         ▼
-   ┌────────────┐
+   ┌─────────────┐
    │ Architecture│
-   └─────┬──────┘
-         │
-         ▼
+   └──────┬──────┘
+          │
+          ▼
    ┌────────────┐
    │ Engineering│
-   └─────┬──────┘
-         │
-         ▼
-      Impact
+   └──────┬─────┘
+          │
+          ▼
+       Impact
 ```
 
 I don't believe great engineering is about using the most sophisticated technology.
 
 It's about making the **right trade-offs**.
 
-> **Code is the implementation.
-> Architecture is the leverage.
-> Impact is the goal.**
+> **Code is the implementation.**
+> **Architecture is the leverage.**
+> **Impact is the goal.**
 
 ---
 
@@ -95,12 +95,15 @@ It's about making the **right trade-offs**.
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisissoroush&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisissoroush&layout=compact&hide_border=true&langs_count=8" height="170" />
+  <img src="./generated/stats.svg" alt="Soroush's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thisissoroush&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisissoroush&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thisissoroush&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -108,7 +111,7 @@ It's about making the **right trade-offs**.
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thisissoroush&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thisissoroush&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -116,7 +119,7 @@ It's about making the **right trade-offs**.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisissoroush&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisissoroush&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
 </p>
 
 ---
@@ -165,7 +168,7 @@ Some of the things you'll find in my repositories:
 │  reliability and scalability.                      │
 │                                                     │
 │  🤖 AI Engineering                                  │
-│  Exploring practical ways to bring AI into        │
+│  Exploring practical ways to bring AI into         │
 │  real software systems.                            │
 │                                                     │
 └─────────────────────────────────────────────────────┘
@@ -199,10 +202,10 @@ Software engineering is still a team sport.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thisissoroush">
-    <img src="https://img.shields.io/badge/LinkedIn-thisissoroush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-thisissoroush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nasiri.sr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nasiri.sr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-nasiri.sr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -210,7 +213,7 @@ Software engineering is still a team sport.
 
 ### 💭 Engineering Principle
 
-> **Don't optimize for writing more code.
-> Optimize for creating more value with less complexity.**
+> **Don't optimize for writing more code.**
+> **Optimize for creating more value with less complexity.**
 
 ⭐ Explore the public repositories below — they're where the ideas become code.
