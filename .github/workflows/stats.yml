@@ -1,0 +1,12 @@
+name: Generate GitHub Stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test workflow
+        run: echo "GitHub Actions is working!"
